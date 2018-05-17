@@ -1,3 +1,13 @@
-body{
-    background-color: black;
+.all_body{
+    background-color: #836FFF;
+}
+
+form{
+    background-color: #fff;
+    padding: 10%;
+    border-radius: 5%;
+}
+
+label{
+    font-weight: bolder;
 }
